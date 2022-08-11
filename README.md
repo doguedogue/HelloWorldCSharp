@@ -4,4 +4,4 @@
 
 ## School 🏫
 
-C# proj
+C# project
