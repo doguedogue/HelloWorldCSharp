@@ -1,7 +1,7 @@
-# C# Beep 🎒
+# C# (Sharp) 🎒
 
 ### HW 📝
 
 ## School 🏫
-
-C# project
+- C# project
+- Beep
