@@ -3,5 +3,5 @@
 ## School 🏫📝
 - C# project
 - Beep
-- Class
-- Internal class
+- 1st Class
+- Internal class (starter)
