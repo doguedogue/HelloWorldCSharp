@@ -3,3 +3,5 @@
 ## School 🏫📝
 - C# project
 - Beep
+- Class
+- Internal class
