@@ -1,7 +1,7 @@
 # C# (Sharp) 🎒
 
-## School 🏫📝
+## School first steps 🏫📝
 - C# project
 - Beep
-- 1st Class
+- Class
 - Internal class (starter)
