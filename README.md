@@ -1,6 +1,6 @@
 # C# (Sharp) 🎒
 
-## School first steps 🏫📝
+## My School, first steps 🏫📝
 - Hello world 🌎
 - C# project
 - Beep
