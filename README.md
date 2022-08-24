@@ -4,6 +4,6 @@
 - Hello World 🌎
 - C# project
 - Beep
-- Class
+- Classes
 - Internal class (starter)
 - Main Method
