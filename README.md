@@ -6,4 +6,4 @@
 - Beep
 - Classes
 - Internal class (starter)
-- Main Method
+- Main Static Method
