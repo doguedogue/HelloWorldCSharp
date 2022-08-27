@@ -3,7 +3,7 @@
 ## My School, first steps 🏫📝
 - Hello World 🌎
 - C# project
-- Beep
+- Beep Function
 - Classes
 - Internal class (starter)
 - Main Static Method
