@@ -7,3 +7,4 @@
 - Classes
 - Internal class (starter)
 - Main Static Method
+- Standalone
