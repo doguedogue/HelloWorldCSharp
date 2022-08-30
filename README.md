@@ -8,4 +8,4 @@
 - Internal class (starter)
 - Main Static Method
 - Standalone
-- C
+- C, C++
