@@ -9,4 +9,4 @@
 - Main Static Method
 - Standalone
 - C, C++, C#
-- Commets // /**/
+- Comments // /**/
