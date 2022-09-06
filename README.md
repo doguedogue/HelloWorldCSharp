@@ -10,4 +10,4 @@
 - Standalone
 - C, C++, C#
 - Comments // /**/
-- Public
+- Public, Private
