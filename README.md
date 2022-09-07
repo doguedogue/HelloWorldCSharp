@@ -11,3 +11,4 @@
 - C, C++, C#
 - Comments // /**/
 - Public, Private
+- Static
