@@ -13,4 +13,5 @@
 - Public, Private
 - Static, void
 - Arguments
+- Methods
 
