@@ -14,4 +14,5 @@
 - Static, void
 - Arguments
 - Methods
+- Algorithm 
 
