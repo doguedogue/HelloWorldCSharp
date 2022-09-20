@@ -16,4 +16,5 @@
 - Methods
 - Algorithm
 - OOP
+- Functions
 
