@@ -17,5 +17,5 @@
 - Algorithm
 - OOP
 - Functions
-- Args
+- Arguments
 
