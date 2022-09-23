@@ -19,4 +19,5 @@
 - Functions
 - Arguments
 - Attributes
+- Constant
 
