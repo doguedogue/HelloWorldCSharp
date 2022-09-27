@@ -22,4 +22,5 @@
 - Constants
 - Reserved words
 - Packages
+- Variables
 
