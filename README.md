@@ -20,6 +20,6 @@
 - Arguments
 - Attributes
 - Constants
-- Reserved words: import
+- Reserved words: import, export
 - Packages
 - Variables
