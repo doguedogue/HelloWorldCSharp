@@ -23,5 +23,6 @@
 - Reserved words: 
   - import
   - export
+  - void
 - Packages
 - Variables
