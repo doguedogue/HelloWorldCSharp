@@ -24,5 +24,6 @@
   - import
   - export
   - void
+  - static
 - Packages
 - Variables
