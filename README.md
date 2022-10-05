@@ -25,5 +25,6 @@
   - export
   - void
   - static
+  - string
 - Packages
 - Variables
