@@ -26,5 +26,6 @@
   - void
   - static
   - string
+  - integer
 - Packages
 - Variables
