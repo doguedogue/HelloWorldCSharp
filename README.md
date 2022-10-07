@@ -27,5 +27,6 @@
   - static
   - string
   - integer
+  - float
 - Packages
 - Variables
