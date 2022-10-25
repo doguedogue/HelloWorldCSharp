@@ -28,5 +28,6 @@
   - string
   - integer
   - float
+  - char
 - Packages
 - Variables
