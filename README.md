@@ -16,6 +16,7 @@
 - Methods
 - Algorithm
 - OOP
+- Polymorphism
 - Functions
 - Arguments
 - Attributes
