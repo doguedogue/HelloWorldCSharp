@@ -1,4 +1,4 @@
-# C# (Sharp) 🎒
+8# C# (Sharp) 🎒
 
 ## My School, first steps 🏫📝
 - Hello World 🌎
@@ -30,5 +30,6 @@
   - integer
   - float
   - char
+  - class
 - Packages
 - Variables
