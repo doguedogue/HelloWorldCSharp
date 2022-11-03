@@ -1,4 +1,4 @@
-8# C# (Sharp) 🎒
+# C# (Sharp) 🎒
 
 ## My School, first steps 🏫📝
 - Hello World 🌎
