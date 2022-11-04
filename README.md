@@ -31,5 +31,6 @@
   - float
   - char
   - class
+  - public
 - Packages
 - Variables
