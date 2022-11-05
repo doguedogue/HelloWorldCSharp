@@ -32,5 +32,6 @@
   - char
   - class
   - public
+  - private
 - Packages
 - Variables
