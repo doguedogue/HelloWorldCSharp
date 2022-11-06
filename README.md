@@ -33,5 +33,6 @@
   - class
   - public
   - private
+  - extend
 - Packages
 - Variables
