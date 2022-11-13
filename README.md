@@ -35,5 +35,6 @@
   - private
   - extend
   - final
+  - return
 - Packages
 - Variables
